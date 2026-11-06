@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+# raw EDGAR payloads are large and re-fetchable; outputs/ is kept so the
+# generated deliverables are visible in the repo
+data/raw/*.json

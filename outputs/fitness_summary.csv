@@ -1,0 +1,15 @@
+entity,tag,FIT,REVIEW,NOT-FIT,total
+Apple Inc.,Assets,132,6,10,148
+Apple Inc.,CashAndCashEquivalentsAtCarryingValue,230,0,0,230
+Apple Inc.,EarningsPerShareDiluted,247,34,60,341
+Apple Inc.,NetIncomeLoss,327,9,5,341
+Apple Inc.,OperatingIncomeLoss,224,8,5,237
+Apple Inc.,RevenueFromContractWithCustomerExcludingAssessedTax,120,0,0,120
+Apple Inc.,Revenues,11,0,0,11
+MICROSOFT CORP,Assets,128,8,8,144
+MICROSOFT CORP,CashAndCashEquivalentsAtCarryingValue,268,0,0,268
+MICROSOFT CORP,EarningsPerShareDiluted,289,9,44,342
+MICROSOFT CORP,NetIncomeLoss,310,12,25,347
+MICROSOFT CORP,OperatingIncomeLoss,253,5,22,280
+MICROSOFT CORP,RevenueFromContractWithCustomerExcludingAssessedTax,136,0,0,136
+MICROSOFT CORP,Revenues,31,0,0,31
